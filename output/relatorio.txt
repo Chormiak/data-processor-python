@@ -1,0 +1,276 @@
+
+CLIENTES PROCESSADOS (78 válidos)
+  ID 1 | João Silva | joao.silva@email.com | 34 anos | Joinville
+  ID 4 | Ana Lima | ana.lima@email.com | 45 anos | Joinville
+  ID 6 | Lucas Oliveira | lucas.oliveira@email.com | 22 anos | Blumenau
+  ID 7 | Fernanda Rocha | fernanda.rocha@email.com | 31 anos | Joinville
+  ID 8 | Rafael Costa | rafael@email.com | 27 anos | Curitiba
+  ID 10 | Gabriel Martins | gabriel.martins@email.com | 19 anos | Florianopolis
+  ID 11 | Juliana Alves | juliana.alves@email.com | 58 anos | Sao Paulo
+  ID 15 | Renata Lima | renata.lima@email.com | 39 anos | 
+  ID 16 | André Souza | andre.souza@email.com | 26 anos | Chapeco
+  ID 18 | Vanessa Duarte | vanessa.duarte@email.com | 41 anos | Joinville
+  ID 19 | Gustavo Nunes | gustavo.nunes@email.com | 18 anos | Itajai
+  ID 20 | Beatriz Costa | beatriz.costa@email.com | 29 anos | Blumenau
+  ID 21 | Felipe Castro | felipe.castro@email.com | 33 anos | Jaragua Do Sul
+  ID 22 | Mariana Dias | mariana@email.com | 25 anos | Curitiba
+  ID 24 | Larissa Ramos | larissa.ramos@email.com | 30 anos | Joinville
+  ID 26 | Amanda Freitas | amanda.freitas@email.com | 46 anos | Curitiba
+  ID 28 | Natalia Campos | natalia.campos@email.com | 24 anos | Londrina
+  ID 29 | Paulo Henrique | paulo@email.com | 52 anos | Sao Paulo
+  ID 30 | Isabela Moraes | isabela.moraes@email.com | 28 anos | Blumenau
+  ID 31 | Leonardo Pinto | leo@email.com | 40 anos | Curitiba
+  ID 32 | Carolina Silva | carolina.silva@email.com | 35 anos | Joinville
+  ID 34 | Priscila Gomes | priscila.gomes@email.com | 47 anos | Chapeco
+  ID 35 | Henrique Alves | henrique.alves@email.com | 61 anos | Sao Paulo
+  ID 36 | Leticia Santos | leticia.santos@email.com | 20 anos | Curitiba
+  ID 38 | Carla Mendes | carla.mendes@email.com | 42 anos | Florianopolis
+  ID 39 | Victor Hugo | victor.hugo@email.com | 32 anos | Itajai
+  ID 40 | Melissa Andrade | melissa.andrade@email.com | 23 anos | Joinville
+  ID 41 | Renan Vieira | renan.vieira@email.com | 38 anos | Curitiba
+  ID 42 | Aline Carvalho | aline.carvalho@email.com | 29 anos | Londrina
+  ID 43 | Cesar Augusto | cesar.augusto@email.com | 48 anos | Sao Paulo
+  ID 44 | Bruna Machado | bruna.machado@email.com | 26 anos | Joinville
+  ID 46 | Julia Barros | julia.barros@email.com | 34 anos | Blumenau
+  ID 47 | Samuel Moraes | samuel.moraes@email.com | 44 anos | Joinville
+  ID 49 | Matheus Lopes | matheus.lopes@email.com | 21 anos | Chapeco
+  ID 50 | Debora Costa | debora.costa@email.com | 50 anos | Curitiba
+  ID 51 | Lucas Almeida | lucas.almeida@email.com | 31 anos | Joinville
+  ID 52 | Viviane Souza | viviane.souza@email.com | 27 anos | Sao Paulo
+  ID 53 | Alex Pereira | alex.pereira@email.com | 36 anos | Curitiba
+  ID 55 | Sergio Gomes | sergio.gomes@email.com | 64 anos | Porto Alegre
+  ID 56 | Patricia Duarte | patricia.duarte@email.com | 41 anos | Londrina
+  ID 57 | Claudio Silva | claudio.silva@email.com | 53 anos | Blumenau
+  ID 58 | Monica Alves | monica.alves@email.com | 37 anos | Joinville
+  ID 59 | Everton Nunes | everton.nunes@email.com | 22 anos | Curitiba
+  ID 61 | Fabio Rocha | fabio.rocha@email.com | 28 anos | Chapeco
+  ID 62 | Luciana Costa | luciana.costa@email.com | 49 anos | Joinville
+  ID 64 | Marcia Freitas | marcia.freitas@email.com | 43 anos | Florianopolis
+  ID 65 | Tiago Santos | tiago.santos@email.com | 38 anos | Itajai
+  ID 66 | Eliane Ribeiro | eliane.ribeiro@email.com | 57 anos | Sao Paulo
+  ID 67 | Bruno Castro | bruno.castro@email.com | 19 anos | Joinville
+  ID 68 | Vanessa Lima | vanessa.lima@email.com | 24 anos | Curitiba
+  ID 69 | Rodrigo Alves | rodrigo.alves@email.com | 46 anos | Blumenau
+  ID 70 | Camila Souza | camila.souza@email.com | 33 anos | Chapeco
+  ID 71 | Diego Ferreira | diego.ferreira@email.com | 52 anos | Londrina
+  ID 72 | Fernanda Costa | fernanda.costa@email.com | 29 anos | Joinville
+  ID 73 | Gabriel Silva | gabriel.silva@email.com | 18 anos | Sao Paulo
+  ID 74 | Helena Martins | helena.martins@email.com | 27 anos | Curitiba
+  ID 76 | Caio Gomes | caio.gomes@email.com | 34 anos | Florianopolis
+  ID 77 | Ana Paula | ana.paula@email.com | 26 anos | Blumenau
+  ID 78 | Renato Dias | renato.dias@email.com | 55 anos | Curitiba
+  ID 79 | Silvia Carvalho | silvia.carvalho@email.com | 62 anos | Joinville
+  ID 80 | Otavio Mendes | otavio.mendes@email.com | 23 anos | Sao Paulo
+  ID 81 | Patricia Rocha | patricia.rocha@email.com | 44 anos | Chapeco
+  ID 82 | Gustavo Lima | gustavo.lima@email.com | 39 anos | Curitiba
+  ID 83 | Amanda Silva | amanda.silva@email.com | 31 anos | Joinville
+  ID 84 | Rafael Nunes | rafael.nunes@email.com | 45 anos | Florianopolis
+  ID 85 | Julio Cesar | julio.cesar@email.com | 58 anos | Londrina
+  ID 87 | Leandro Alves | leandro.alves@email.com | 41 anos | Joinville
+  ID 88 | Caroline Dias | caroline.dias@email.com | 22 anos | Blumenau
+  ID 89 | Henrique Souza | henrique.souza@email.com | 65 anos | Sao Paulo
+  ID 90 | Fernando Costa | fernando costa@email.com | 33 anos | Curitiba
+  ID 91 | Ana Beatriz | ana.beatriz@email.com | 27 anos | Joinville
+  ID 92 | Marcelo Ribeiro | marcelo.ribeiro@email.com | 49 anos | Florianopolis
+  ID 93 | Juliana Castro | juliana.castro@email.com | 38 anos | Chapeco
+  ID 94 | Lucas Dias | lucas.dias@email.com | 24 anos | Londrina
+  ID 95 | Lucas Dias | lucas.dias@email.com | 24 anos | Londrina
+  ID 96 | Bruna Oliveira | bruna.oliveira@email.com | 42 anos | Joinville
+  ID 98 | Paula Fernandes | paula.fernandes@email.com | 37 anos | Sao Paulo
+  ID 99 | Eduarda Lima | eduarda.lima@email.com | 29 anos | 
+
+CLIENTES REJEITADOS (22)
+  ID 2 - Maria Souza: email inválido: 'maria@email'
+  ID 3 - Carlos Pereira: idade inválida: -5
+  ID 5 - Pedro Santos: email inválido: '', data inválida: '2023-02-30'
+  ID 9 - Patricia Gomes: email inválido: 'patricia@email'
+  ID 12 - Thiago Ribeiro: idade inválida: 0
+  ID 13 - Camila Ferreira: idade inválida: 120
+  ID 14 - Bruno Melo: idade inválida: 121
+  ID 17 - Marcos Vinicius: email inválido: 'marcos@emailcom'
+  ID 23 - Ricardo Almeida: email inválido: 'ricardo.almeida@email'
+  ID 25 - Eduardo Farias: idade inválida: None
+  ID 27 - Diego Lopes: data inválida: '2023-11-31'
+  ID 33 - Daniel Rocha: idade inválida: None
+  ID 37 - Roberto Lima: data inválida: '2023-13-01'
+  ID 45 - Igor Fernandes: idade inválida: -1
+  ID 48 - Paula Ribeiro: data inválida: '2023-02-29'
+  ID 54 - : nome vazio
+  ID 60 - Raquel Mendes: email inválido: 'raquel@email'
+  ID 63 - Guilherme Lima: data inválida: '2023-04-31'
+  ID 75 - Joana Ribeiro: email inválido: 'joana.ribeiro@email'
+  ID 86 - Marina Gomes: data inválida: '2023-09-31'
+  ID 97 - Robson Martins: data inválida: '2023/04/15'
+  ID None - Nome Teste: id inválido
+
+TRANSAÇÕES PROCESSADAS (70 válidas)
+  ID 1 | cliente 1 | R$ 150.50 | eletronicos | aprovado
+  ID 4 | cliente 1 | R$ 300.00 | eletronicos | recusado
+  ID 5 | cliente 10 | R$ 120.00 | livros | aprovado
+  ID 6 | cliente 4 | R$ 89.90 | alimentacao | aprovado
+  ID 8 | cliente 6 | R$ 75.20 | saude | aprovado
+  ID 9 | cliente 7 | R$ 49.99 | esportes | recusado
+  ID 10 | cliente 8 | R$ 999.99 | eletronicos | aprovado
+  ID 12 | cliente 10 | R$ 450.00 | roupas | pendente
+  ID 13 | cliente 11 | R$ 180.75 | livros | aprovado
+  ID 17 | cliente 15 | R$ 199.99 | jogos | pendente
+  ID 18 | cliente 16 | R$ 799.00 | eletronicos | aprovado
+  ID 20 | cliente 18 | R$ 55.00 | alimentacao | aprovado
+  ID 21 | cliente 19 | R$ 670.40 | moveis | aprovado
+  ID 22 | cliente 20 | R$ 35.90 | livros | pendente
+  ID 23 | cliente 21 | R$ 420.00 | eletronicos | aprovado
+  ID 24 | cliente 22 | R$ 185.60 | beleza | aprovado
+  ID 26 | cliente 24 | R$ 950.00 | automotivo | aprovado
+  ID 28 | cliente 26 | R$ 89.90 | jogos | aprovado
+  ID 30 | cliente 28 | R$ 59.99 | roupas | recusado
+  ID 31 | cliente 29 | R$ 125.00 | livros | aprovado
+  ID 32 | cliente 30 | R$ 880.50 | eletronicos | aprovado
+  ID 33 | cliente 31 | R$ 47.90 | alimentacao | pendente
+  ID 34 | cliente 32 | R$ 219.90 | beleza | aprovado
+  ID 36 | cliente 34 | R$ 98.75 | pet | aprovado
+  ID 37 | cliente 35 | R$ 175.30 | jogos | aprovado
+  ID 38 | cliente 36 | R$ 450.00 | moveis | pendente
+  ID 40 | cliente 38 | R$ 60.00 | alimentacao | recusado
+  ID 41 | cliente 39 | R$ 710.00 | eletronicos | aprovado
+  ID 42 | cliente 40 | R$ 35.90 | livros | pendente
+  ID 43 | cliente 41 | R$ 250.00 | beleza | aprovado
+  ID 44 | cliente 42 | R$ 120.50 | pet | aprovado
+  ID 45 | cliente 43 | R$ 985.90 | automotivo | recusado
+  ID 46 | cliente 44 | R$ 48.00 | alimentacao | aprovado
+  ID 48 | cliente 46 | R$ 570.00 | moveis | aprovado
+  ID 49 | cliente 47 | R$ 92.00 | roupas | aprovado
+  ID 51 | cliente 49 | R$ 1450.00 | eletronicos | aprovado
+  ID 52 | cliente 50 | R$ 68.30 | alimentacao | pendente
+  ID 53 | cliente 51 | R$ 99.90 | beleza | aprovado
+  ID 54 | cliente 52 | R$ 500.00 | moveis | aprovado
+  ID 55 | cliente 53 | R$ 87.40 | pet | recusado
+  ID 57 | cliente 55 | R$ 780.00 | automotivo | pendente
+  ID 58 | cliente 56 | R$ 39.90 | livros | aprovado
+  ID 59 | cliente 57 | R$ 59.90 | roupas | aprovado
+  ID 60 | cliente 58 | R$ 180.00 | eletronicos | recusado
+  ID 61 | cliente 59 | R$ 76.00 | alimentacao | aprovado
+  ID 63 | cliente 61 | R$ 210.90 | beleza | aprovado
+  ID 64 | cliente 62 | R$ 84.50 | pet | aprovado
+  ID 66 | cliente 64 | R$ 920.00 | automotivo | aprovado
+  ID 67 | cliente 65 | R$ 42.00 | alimentacao | pendente
+  ID 68 | cliente 66 | R$ 134.90 | livros | aprovado
+  ID 69 | cliente 67 | R$ 299.00 | roupas | aprovado
+  ID 70 | cliente 68 | R$ 1110.00 | eletronicos | recusado
+  ID 71 | cliente 69 | R$ 53.50 | alimentacao | aprovado
+  ID 72 | cliente 70 | R$ 620.00 | moveis | pendente
+  ID 73 | cliente 71 | R$ 150.00 | beleza | aprovado
+  ID 74 | cliente 72 | R$ 79.90 | pet | aprovado
+  ID 75 | cliente 73 | R$ 270.00 | jogos | recusado
+  ID 76 | cliente 74 | R$ 890.00 | automotivo | aprovado
+  ID 78 | cliente 76 | R$ 110.00 | roupas | aprovado
+  ID 79 | cliente 77 | R$ 490.00 | eletronicos | aprovado
+  ID 80 | cliente 78 | R$ 34.90 | alimentacao | recusado
+  ID 81 | cliente 79 | R$ 720.00 | moveis | aprovado
+  ID 82 | cliente 80 | R$ 189.00 | beleza | pendente
+  ID 83 | cliente 81 | R$ 95.00 | pet | aprovado
+  ID 84 | cliente 82 | R$ 410.00 | jogos | aprovado
+  ID 85 | cliente 83 | R$ 1050.00 | automotivo | recusado
+  ID 95 | cliente 90 | R$ 250.00 | eletronicos | aprovado
+  ID 96 | cliente 91 | R$ 180.00 | roupas | recusado
+  ID 97 | cliente 92 | R$ 90.00 | livros | aprovado
+  ID 99 | cliente 95 | R$ 199.90 | esportes | aprovado
+
+TRANSAÇÕES REJEITADAS (31)
+  ID 2 - cliente_id inexistente: 2
+  ID 3 - cliente_id inexistente: 3, valor inválido: -50.0
+  ID 7 - cliente_id inexistente: 5
+  ID 11 - cliente_id inexistente: 9
+  ID 14 - cliente_id inexistente: 12
+  ID 15 - cliente_id inexistente: 13
+  ID 16 - cliente_id inexistente: 14
+  ID 19 - cliente_id inexistente: 17
+  ID 25 - cliente_id inexistente: 23
+  ID 27 - cliente_id inexistente: 25
+  ID 29 - cliente_id inexistente: 27
+  ID 35 - cliente_id inexistente: 33
+  ID 39 - cliente_id inexistente: 37
+  ID 47 - cliente_id inexistente: 45
+  ID 50 - cliente_id inexistente: 48
+  ID 56 - cliente_id inexistente: 54
+  ID 62 - cliente_id inexistente: 60
+  ID 65 - cliente_id inexistente: 63
+  ID 77 - cliente_id inexistente: 75
+  ID 86 - cliente_id inexistente: 999
+  ID 87 - cliente_id inexistente: 0
+  ID 88 - cliente_id inexistente: -5
+  ID 89 - valor inválido: -150.0
+  ID 90 - valor inválido: 0.0
+  ID 91 - cliente_id inexistente: 86, valor inválido: None
+  ID 92 - valor inválido: None
+  ID 93 - categoria inválida: ''
+  ID 94 - categoria inválida: 'viagem'
+  ID 98 - status inválido: 'cancelado'
+  ID 99 - status inválido: ''
+  ID None - id inválido, status inválido: 'ok'
+
+MÉTRICAS
+  Total aprovado: R$ 15489.49
+  Média de idade (válidos): 36.4
+  Faixa de idade: 18 – 65
+
+CLIENTES POR CIDADE
+  Joinville: 19 clientes
+  Blumenau: 8 clientes
+  Curitiba: 14 clientes
+  Florianopolis: 6 clientes
+  Sao Paulo: 10 clientes
+  : 2 clientes
+  Chapeco: 7 clientes
+  Itajai: 3 clientes
+  Jaragua Do Sul: 1 cliente
+  Londrina: 7 clientes
+  Porto Alegre: 1 cliente
+
+RANKING DE GASTOS (transações aprovadas)
+  1. Matheus Lopes - R$ 1450.00
+  2. Rafael Costa - R$ 999.99
+  3. Larissa Ramos - R$ 950.00
+  4. Marcia Freitas - R$ 920.00
+  5. Helena Martins - R$ 890.00
+  6. Isabela Moraes - R$ 880.50
+  7. André Souza - R$ 799.00
+  8. Silvia Carvalho - R$ 720.00
+  9. Victor Hugo - R$ 710.00
+  10. Gustavo Nunes - R$ 670.40
+  11. Julia Barros - R$ 570.00
+  12. Viviane Souza - R$ 500.00
+  13. Ana Paula - R$ 490.00
+  14. Felipe Castro - R$ 420.00
+  15. Gustavo Lima - R$ 410.00
+  16. Bruno Castro - R$ 299.00
+  17. Renan Vieira - R$ 250.00
+  18. Fernando Costa - R$ 250.00
+  19. Carolina Silva - R$ 219.90
+  20. Fabio Rocha - R$ 210.90
+  21. Lucas Dias - R$ 199.90
+  22. Mariana Dias - R$ 185.60
+  23. Juliana Alves - R$ 180.75
+  24. Henrique Alves - R$ 175.30
+  25. João Silva - R$ 150.50
+  26. Diego Ferreira - R$ 150.00
+  27. Eliane Ribeiro - R$ 134.90
+  28. Paulo Henrique - R$ 125.00
+  29. Aline Carvalho - R$ 120.50
+  30. Gabriel Martins - R$ 120.00
+  31. Caio Gomes - R$ 110.00
+  32. Lucas Almeida - R$ 99.90
+  33. Priscila Gomes - R$ 98.75
+  34. Patricia Rocha - R$ 95.00
+  35. Samuel Moraes - R$ 92.00
+  36. Marcelo Ribeiro - R$ 90.00
+  37. Ana Lima - R$ 89.90
+  38. Amanda Freitas - R$ 89.90
+  39. Luciana Costa - R$ 84.50
+  40. Fernanda Costa - R$ 79.90
+  41. Everton Nunes - R$ 76.00
+  42. Lucas Oliveira - R$ 75.20
+  43. Claudio Silva - R$ 59.90
+  44. Vanessa Duarte - R$ 55.00
+  45. Rodrigo Alves - R$ 53.50
+  46. Bruna Machado - R$ 48.00
+  47. Patricia Duarte - R$ 39.90
